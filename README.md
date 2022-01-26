@@ -1,1 +1,2 @@
 # odin-recipes
+This will be my first project in TheOdinoProject course. It'll be about creating a web page with some recipes and I will have to demonstrate to be able to create a webpage and then link it to some others, to add images and possibily make everything as aestethically pleasing as possibile.
